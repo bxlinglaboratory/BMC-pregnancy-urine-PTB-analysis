@@ -1,0 +1,9 @@
+1. Hx preterm del: Indicates whether the subject has a history of preterm delivery.
+   Yes = Prior preterm birth
+   No = No prior preterm birth
+2. Del Mode: Refers to the mode of delivery.
+   NSVD = Normal Spontaneous Vaginal Delivery
+   Cesarean or C-Section = Delivery via Cesarean section
+3. P-PROM?: Indicates whether the subject experienced Preterm Premature Rupture of Membranes.
+   Yes = P-PROM occurred (membrane ruptured before 37 weeks and before onset of labor)
+   No = P-PROM did not occur
